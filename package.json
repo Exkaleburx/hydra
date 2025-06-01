@@ -43,7 +43,7 @@
     "classnames": "^2.5.1",
     "color.js": "^1.2.0",
     "date-fns": "^3.6.0",
-    "flexsearch": "^0.7.43",
+    "flexsearch": "^0.8.163",
     "got-scraping": "^4.0.5",
     "i18next": "^23.11.2",
     "i18next-browser-languagedetector": "^7.2.1",
