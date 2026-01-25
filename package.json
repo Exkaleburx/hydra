@@ -48,7 +48,7 @@
     "i18next": "^23.11.2",
     "i18next-browser-languagedetector": "^7.2.1",
     "jsdom": "^24.0.0",
-    "lodash-es": "^4.17.21",
+    "lodash-es": "^4.17.22",
     "lottie-react": "^2.4.0",
     "parse-torrent": "^11.0.16",
     "ps-list": "^8.1.1",
